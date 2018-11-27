@@ -2,10 +2,10 @@
 
 
 int  main()
-{
-    int c``
+{//测试文件
+    int c;
     int b;
     int i;
-    printf("hello  git\n");
+    printf("hello  git test``\n");
     return 0;
 }

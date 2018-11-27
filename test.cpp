@@ -4,6 +4,6 @@ int  main()
 {
     int b;
     int i;
-    cout<<"hello"<<endl;
+    cout<<"hello git"<<endl;
     return 0;
 }
