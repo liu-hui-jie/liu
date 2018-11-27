@@ -2,6 +2,9 @@
 using namespace std;
 int  main()
 {
-    cout<<"hello git"<<endl;
+    int b;
+    int i;
+    cout<<"hello wzp  git"<<endl;
+    cout<<"1111"<<endl;
     return 0;
 }
