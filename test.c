@@ -6,6 +6,6 @@ int  main()
     int c;
     int b;
     int i;
-    printf("hello  git test``\n");
+    printf("hello  wzp  git test``\n");
     return 0;
 }
